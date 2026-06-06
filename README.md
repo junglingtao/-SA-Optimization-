@@ -1,2 +1,2 @@
 # -SA-Optimization-
-本项目是2024年全国大学生数学建模竞赛的C题，属于复杂优化类问题，数学模型为混合整数规划问题，采用模拟退火算法进行启发式求解，结果符合检验效果不错。
+This project is based on Problem C of the 2024 China Undergraduate Mathematical Contest in Modeling (CUMCM), which falls under the category of complex optimization. The mathematical model is a mixed-integer programming problem, and it was solved heuristically using the simulated annealing algorithm. The results passed validation checks and performed well.
